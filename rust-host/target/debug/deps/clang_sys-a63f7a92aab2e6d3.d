@@ -1,0 +1,13 @@
+/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/deps/libclang_sys-a63f7a92aab2e6d3.rmeta: /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/lib.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/support.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/link.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/common.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/dynamic.rs
+
+/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/deps/libclang_sys-a63f7a92aab2e6d3.rlib: /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/lib.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/support.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/link.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/common.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/dynamic.rs
+
+/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/deps/clang_sys-a63f7a92aab2e6d3.d: /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/lib.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/support.rs /home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/link.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/common.rs /home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/dynamic.rs
+
+/home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/lib.rs:
+/home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/support.rs:
+/home/sidconstructs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-0.29.3/src/link.rs:
+/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/common.rs:
+/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/sidconstructs/Downloads/working/wasm3-host/rust-host/target/debug/build/clang-sys-515d81b2832a4d5f/out
